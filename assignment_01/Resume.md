@@ -2,6 +2,6 @@
 ![](1.jpeg)
                                                                                                                            
    
-## *       MANISH BHIMMA*
+## *MANISH BHIMA*
 
 - ***Contact Info***
