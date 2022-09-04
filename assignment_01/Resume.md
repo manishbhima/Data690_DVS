@@ -35,4 +35,4 @@
  - **Educational Background**
      - **University Of Maryland At Baltimore County (Aug 2022 - Present)** - Master's in Data Science
    
-     - **Geethanjali College Of Engineering And Technology (Aug 2016 - Sept 2020)**  - Bachelors in Electronics & Communication Engineering   
+     - **Geethanjali College Of Engineering And Technology (Aug 2016 - Sept 2020)**  - Bachelors in Computer Science Engineering   
