@@ -38,5 +38,5 @@
      - **Geethanjali College Of Engineering And Technology (Aug 2016 - Sept 2020)**  - Bachelors in Computer Science Engineering  
 
  - **Employment Experience**
-     **Wipro Technologies(Nov 2020 - Jul 2022)** - Worked as __Project Engineer__
+     - **Wipro Technologies (Nov 2020 - Jul 2022)** - Worked as __Project Engineer__
        - **Roles & Responsibilities**
