@@ -39,7 +39,7 @@
 
  - **Employment Experience**
      - **Wipro Technologies (Nov 2020 - Jul 2022)** - Worked as __Project Engineer__
-         > 1. *Designing Interface for the transmission and translation of data between various facilities.*
+         > 1. Involved in various activities of the project, like information gathering, analyzing the information, documenting the functional and nonfunctional requirements
          > 
          > 2. *Implementing various logics for translation of data into formats like JSON, XML and CSV for the user end view perspective.* 
          >
