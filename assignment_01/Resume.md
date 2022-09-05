@@ -59,5 +59,10 @@
      3. **Database Languages**  - Oracle SQL
    
      4. **Technologies**  -  Microsoft Power BI 
+    
+- **Awards & Certifications** 
+     
+     1.Certified as __Microsoft Technology Associate__ for successfully completing the internship on __Introduction to Programming using Python__.
+     
+     2.Received a __Platform Developer__ known as __PD1__ certificate in __Salesforce Platform__.
 
-    -     
