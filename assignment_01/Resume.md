@@ -50,4 +50,7 @@
          > 5. Focused implementation of developing interface using agile methodology within the sprint schedule.
          > 
          > 6. Good experience using Salesforce Administration (SFA), Profiles, Creating Roles, Page Layouts, Org- Wide default, Sharing rules, Workflows, Reports and Dashboard.
-            - 
+         
+    - **Technical Skills**   
+    - 
+    -     
