@@ -39,5 +39,15 @@
 
  - **Employment Experience**
      - **Wipro Technologies (Nov 2020 - Jul 2022)** - Worked as __Project Engineer__
-        1. Roles & Responsibilities
+         > 1. *Designing Interface for the transmission and translation of data between various facilities.*
+         > 
+         > 2. *Implementing various logics for translation of data into formats like JSON, XML and CSV for the user end view perspective.* 
+         >
+         > 3.  *Report generation for billing and scheduling records of the patients.* 
+         > 
+         > 4. *Data integration using Azure Cloud with Azure table storage services.*
+         >  
+         > 5. *Focused implementation of developing interface using agile methodology within the sprint schedule.*
+         > 
+         > 6. *End - to - End functional testing and writing unit test cases for the implemented design of interface for analysing efficiency of the module to handle the load of transmision of records.*
             - 
