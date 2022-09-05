@@ -66,3 +66,8 @@
      
      2. Received a __PD1(Platform Developer 1)__ certificate in __Salesforce Platform__.
 
+-  **Activities**
+     1. Participated in many events of __Aasya Foundation__ which helps people in need.
+  
+     2. Organized various cultural/sports events and was also the prime member of arts club in my college.
+
