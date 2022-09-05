@@ -39,5 +39,5 @@
 
  - **Employment Experience**
      - **Wipro Technologies (Nov 2020 - Jul 2022)** - Worked as __Project Engineer__
-       ** 1.Roles & Responsibilities **
+        1. **Roles & Responsibilities**
             - 
