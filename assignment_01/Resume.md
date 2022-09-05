@@ -52,5 +52,12 @@
          > 6. Good experience using Salesforce Administration (SFA), Profiles, Creating Roles, Page Layouts, Org- Wide default, Sharing rules, Workflows, Reports and Dashboard.
          
 - **Technical Skills**   
-    - 
+     1. **Programming Languages** *- C/Embedded C, Java, Python, Javascript, EDI(Electronic Data Interchange) Formats* 
+   
+     2. **Web Technologies**  *- HTML, CSS, XML, JSON*
+   
+     3. **Database Languages**  *- Oracle SQL*
+   
+     4. **Technologies**  *- Qvera Interface Engine, Microsoft Power BI* 
+
     -     
