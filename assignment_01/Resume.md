@@ -5,11 +5,11 @@
 ## *MANISH BHIMA*
 
 - **Contact Info**
-    - Contact number - (###)- ### - ##95
+    - Contact number - (###)- ### - ##46
     
     - Mail id - bhimamanish@gmail.com
     
-    - Linkedin profile - https://www.linkedin.com/in/arthi-komma-07874b1b9
+    - Linkedin profile - https://www.linkedin.com/in/manish-bhima-878476128
 
 - **Professional Summary**
    - Certified Salesforce Platform developer with around 1.5 Years of experience in SFDC Platform.
