@@ -51,6 +51,6 @@
          > 
          > 6. Good experience using Salesforce Administration (SFA), Profiles, Creating Roles, Page Layouts, Org- Wide default, Sharing rules, Workflows, Reports and Dashboard.
          
-    - **Technical Skills**   
+   - **Technical Skills**   
     - 
     -     
