@@ -24,3 +24,4 @@
 - China with 24.5 of the market, followed by India with 23.9 % and United States with 14.9%.
 # Economic growth due to Industries:
 - Industrial progress has generally resulted in periods of economic expansion. Increased employment opportunities are provided by industrialization, which raises community income and contributes to the country's economic progress.
+![](pieplotindustries.png)
