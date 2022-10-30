@@ -20,8 +20,7 @@
 ![](barplot.png)
 
 - In the year 2016, the percentage of exports of goods and services contributing to GDP by various countries is depicted in the bar graph above.
-- Exports of goods and servieces of United Kingdom serves 27.2% to its GDP and stand at the top which serves more percentage to GDP through its exports
 - The United States exports of goods and services contribute 70.8 percent to its GDP, making it the country with the highest proportion of GDP contributed by exports.
-- Sri Lanka with 14.9% of the market, followed by India with 7.13%,Bangladesh with 4.7% and Afganisthan with 2.42%.
+- Italy with 58.9% of the market, followed by China with 15.13 % and India with 7.13%.
 # Economic growth due to Industries:
 - Industrial progress has generally resulted in periods of economic expansion. Increased employment opportunities are provided by industrialization, which raises community income and contributes to the country's economic progress.
