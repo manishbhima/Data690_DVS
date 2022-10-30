@@ -30,10 +30,12 @@
 - India begins with 25.2 percent of GDP provided by industries and Italy is in third place with 20.1 percent at the end of 2016
 - USA is having 17.1 percent of GDP provided by industries by end of 2016
 # GDP per capita, PPP (current international $):
-![](scatterplot2016.png)
 - The gross domestic product (GDP) is a metric that measures the economic output of a country. The number of goods and services produced in a country with a higher GDP will be greater.
 ![](lineGDP.png)
 - The United States has the highest GDP of 68.4%, while India has the lowest GDP of 8 percent, as shown in the chart above. Despite minimal contributions from exports and trade to the United States, science and technology have contributed to the country's higher GDP than other countries.
 # Industrialisation vs Exports Of Goods among different Years:
  ![](scatterplot2016.png)
  ![](scatterplot2017.png)
+ ![](scatterplot2018.png)
+ ![](scatterplot2019.png)
+ ![](scatterplot2020.png)
