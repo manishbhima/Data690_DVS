@@ -25,3 +25,7 @@
 # Economic growth due to Industries:
 - Industrial progress has generally resulted in periods of economic expansion. Increased employment opportunities are provided by industrialization, which raises community income and contributes to the country's economic progress.
 ![](pieplotindustries.png)
+
+- China is at the top of the list, with industries accounting for 37.5 percent of its GDP. 
+- India begins with 25.2 percent of GDP provided by industries and Italy is in third place with 20.1 percent at the end of 2016
+- USA is having 17.1 percent of GDP provided by industries by end of 2016
