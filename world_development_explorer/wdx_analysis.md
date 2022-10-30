@@ -29,3 +29,5 @@
 - China is at the top of the list, with industries accounting for 37.5 percent of its GDP. 
 - India begins with 25.2 percent of GDP provided by industries and Italy is in third place with 20.1 percent at the end of 2016
 - USA is having 17.1 percent of GDP provided by industries by end of 2016
+# GDP per capita, PPP (current international $):
+- The gross domestic product (GDP) is a metric that measures the economic output of a country. The number of goods and services produced in a country with a higher GDP will be greater.
