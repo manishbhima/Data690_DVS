@@ -40,3 +40,18 @@
  ![](scatterplot2019.png)
  ![](scatterplot2020.png)
  ![](scatterplot2021.png)
+ 
+ The above figure depicits Industrialisation vs Exports in four different countries among the different years from 2016 to 2021
+
+
+
+### **Conclusion**
+
+
+
+
+
+### **References**
+- Wang, C. (2021). The world development explorer. Available from http﻿://www.worlddev.xyz
+
+
