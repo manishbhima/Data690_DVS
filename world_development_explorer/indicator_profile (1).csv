@@ -1,0 +1,5 @@
+,Topic,Indicator ID,Indicator Name,Action
+0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",Remove
+1,Health,SP.POP.TOTL,"Population, total",Remove
+2,Education,BAR.PRM.SCHL.2529.FE,"Barro-Lee: Average years of primary schooling, age 25-29, female",Remove
+3,Education,BAR.PRM.SCHL.25UP,"Barro-Lee: Average years of primary schooling, age 25+, total",Remove
