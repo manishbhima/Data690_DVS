@@ -32,3 +32,4 @@
 # GDP per capita, PPP (current international $):
 - The gross domestic product (GDP) is a metric that measures the economic output of a country. The number of goods and services produced in a country with a higher GDP will be greater.
 ![](lineGDP.png)
+- The United States has the highest GDP of 68.4%, while India has the lowest GDP of 0.29 percent, as shown in the chart above. Despite minimal contributions from exports and trade to the United States, science and technology have contributed to the country's higher GDP than other countries.
