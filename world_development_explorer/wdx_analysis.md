@@ -39,3 +39,4 @@
  ![](scatterplot2018.png)
  ![](scatterplot2019.png)
  ![](scatterplot2020.png)
+ ![](scatterplot2021.png)
