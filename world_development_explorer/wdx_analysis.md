@@ -34,12 +34,8 @@
 ![](lineGDP.png)
 - The United States has the highest GDP of 68.4%, while India has the lowest GDP of 8 percent, as shown in the chart above. Despite minimal contributions from exports and trade to the United States, science and technology have contributed to the country's higher GDP than other countries.
 # Industrialisation vs Exports Of Goods among different Years:
- ![](2016scatterplot.png)
- ![](scatterplot2017.png)
- ![](scatterplot2018.png)
- ![](scatterplot2019.png)
- ![](scatterplot2020.png)
- ![](scatterplot2021.png)
+![](SCATTERPLOT2K16.png)
+![](SCATTERPLOT2K20.png)
  
  The above figure depicts Industrialisation vs Exports in four different countries among the different years from 2016 to 2021
 
