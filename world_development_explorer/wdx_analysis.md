@@ -46,6 +46,7 @@
 
 
 ### **Conclusion**
+- We learned how exports of goods and services, industry, and trade contribute to the economic growth of the respective countries from the above information. We also compared the GDP per capita of five other countries.
 
 
 
