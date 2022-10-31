@@ -41,12 +41,12 @@
  ![](scatterplot2020.png)
  ![](scatterplot2021.png)
  
- The above figure depicits Industrialisation vs Exports in four different countries among the different years from 2016 to 2021
+ The above figure depicts Industrialisation vs Exports in four different countries among the different years from 2016 to 2021
 
 
 
 ### **Conclusion**
-- We learned how exports of goods and services, industry, and trade contribute to the economic growth of the respective countries from the above information. We also compared the GDP per capita of five other countries.
+- We learned how exports of goods and services, industry, and trade contribute to the economic growth of the respective countries from the above information. We also compared the GDP per capita of four other countries.
 
 
 
