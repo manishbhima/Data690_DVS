@@ -1,0 +1,94 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,19.5843800536,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1,2017,19.6922769882,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2,2018,19.1121035364,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2019,18.4099923155,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+4,2020,18.5410600111,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+5,2021,20.0098140678,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,19.1582349106,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+7,2017,18.7917648393,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+8,2018,19.9278285989,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+9,2019,18.6909827074,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+10,2020,18.7088986866,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2021,20.8136349598,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2016,29.3278907466,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+13,2017,30.7337333196,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+14,2018,31.3535542008,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+15,2019,31.6026782976,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+16,2020,29.5325109401,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+17,2021,32.738503052,NE.EXP.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+18,2016,11.9395387322,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+19,2017,12.2371893966,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+20,2018,12.3422406728,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+21,2019,11.7895354311,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+22,2020,10.1628986024,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+23,2016,39.5806215023,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+24,2017,39.8516984492,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2018,39.6870118234,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2019,38.5874054561,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2020,37.84278691,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+28,2021,39.4260685581,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+29,2016,26.61899994,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+30,2017,26.5000166467,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+31,2018,26.4120919017,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+32,2019,24.5964578829,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+33,2020,24.5310661886,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+34,2021,25.8718010169,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+35,2016,21.2179443784,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+36,2017,21.300405023,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+37,2018,21.4501517226,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+38,2019,21.5271247819,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+39,2020,21.6067526526,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+40,2021,22.5776378134,NV.IND.TOTL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+41,2016,18.0422212818,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+42,2017,18.4366014618,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+43,2018,18.6167766258,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+44,2019,18.295603047,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+45,2020,18.4387545564,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+46,2016,36.8944150171,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+47,2017,37.6324132404,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+48,2018,37.5657841021,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+49,2019,35.8900960342,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+50,2020,34.5892495205,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2021,37.4317826529,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2016,40.0824857133,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+53,2017,40.7424969545,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+54,2018,43.616969332400004,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+55,2019,39.962527934,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+56,2020,37.8053535787,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+57,2021,43.6771747052,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+58,2016,55.3676028142,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+59,2017,58.6041759473,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+60,2018,60.3035512427,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+61,2019,59.8794701513,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+62,2020,55.4026417162,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+63,2021,63.0600566711,NE.TRD.GNFS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+64,2016,26.5869993605,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+65,2017,27.2461628345,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+66,2018,27.5888583534,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+67,2019,26.3689222091,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+68,2020,23.4424574128,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+69,2016,13483.3772665319,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+70,2017,14243.5326108491,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+71,2018,15495.5484221015,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+72,2019,16652.0988008531,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+73,2020,17189.281794248,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+74,2021,19338.234084501,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+75,2016,5839.8648167534,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+76,2017,6182.9221085744,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+77,2018,6669.6227843001,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+78,2019,6971.6872764783,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+79,2020,6525.4280520948,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+80,2021,7333.505611842,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+81,2016,39926.9546628592,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+82,2017,41581.120790548,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+83,2018,43036.2437770367,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+84,2019,44376.1625028912,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+85,2020,41987.8159630472,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+86,2021,45935.9965539678,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+87,2016,57866.7449341091,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+88,2017,59914.7777969757,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+89,2018,62805.2537579917,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+90,2019,65094.7994287929,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+91,2020,63027.6795267153,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+92,2021,69287.536587952,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
